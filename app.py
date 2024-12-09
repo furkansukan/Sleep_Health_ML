@@ -275,10 +275,8 @@ elif page == "Contact":
     - 📧 **E-posta**: [furkansukan10@gmail.com](mailto:furkansukan10@gmail.com)  
     - 🪪 **LinkedIn**: [furkansukan](https://www.linkedin.com/in/furkansukan)  
     - 🔗 **Kaggle**: [Profilim](https://www.kaggle.com/furkansukan)  
-    - 📓 **Model Eğitim Notebook’u**: [Dynamic Pricing](#)  
     - 🐙 **GitHub**: [furkansukan](https://github.com/furkansukan)  
-    - 📂 **Proje Reposu**: [Dynamic Pricing](#)  
-    - 🌐 **Proje Sitesi**: [Dynamic Pricing](#)  
+    
     """)
     
     st.write("Görüş ve önerilerinizi duymaktan mutluluk duyarım!")
